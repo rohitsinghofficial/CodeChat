@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeChat</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="invalid_email">Your Email Is Invalid</string>
+    <string name="invalid_password">Your Password Is TooShort</string>
+    <string name="incorrect_password">Your password Is Not Correct</string>
+    <string name="field_recquired">Please Fill The Fields</string>
+
+
+</resources>

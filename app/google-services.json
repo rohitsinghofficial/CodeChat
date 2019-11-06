@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "451996904440",
+    "firebase_url": "https://codechat-b8bc4.firebaseio.com",
+    "project_id": "codechat-b8bc4",
+    "storage_bucket": "codechat-b8bc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451996904440:android:84c69fe0bc7955934c840d",
+        "android_client_info": {
+          "package_name": "com.example.codechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451996904440-htq6m6qd59oarpk35g9596941pndsedh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codechat",
+            "certificate_hash": "3b017b8c38b32b6f1537740b8ff03730c2e68be1"
+          }
+        },
+        {
+          "client_id": "451996904440-su7h6vai8pg3pib9sgjrfle4irm6r7bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuj0BSg-c4gsKFVRtrEnjq2HrOPg7QxJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451996904440-su7h6vai8pg3pib9sgjrfle4irm6r7bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
